@@ -9,6 +9,6 @@
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-# Autor :man_technologist::
+# Author :man_technologist::
 
-Feito com :heart: by **franciscojunior10** meu :point_right: [Linkedin](https://www.linkedin.com/in/franciscojunior10/)
+Made with :heart: by **franciscojunior10** my :point_right: [Linkedin](https://www.linkedin.com/in/franciscojunior10/)
