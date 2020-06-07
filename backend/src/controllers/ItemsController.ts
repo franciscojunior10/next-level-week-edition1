@@ -13,7 +13,7 @@ class ItemsController {
             }
         });
     
-        return res.json({ serializedItems });
+        return res.json(serializedItems);
     }
 }
 
